@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
-//cabreroenzoSLAM20212022
+//cabreroenzoSLAM2021
 int main() {
     printf("[DEBUG] Avant : 'a', Après : '%c' ", toupper('a'));
     int tailleDuMot;
